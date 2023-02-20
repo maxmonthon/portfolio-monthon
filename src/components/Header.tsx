@@ -58,16 +58,7 @@ export default function Header() {
           fgColor="gray"
           bgColor="transparent"
         />
-        <SocialIcon
-          url="https://www.linkedin.com/in/monthon-kachana-10b096267/"
-          fgColor="gray"
-          bgColor="transparent"
-        />
-            <SocialIcon
-          url="https://www.linkedin.com/in/monthon-kachana-10b096267/"
-          fgColor="gray"
-          bgColor="transparent"
-        />
+    
       </motion.div>
 
       {/* --------------------------------------------------------------------------------- */}

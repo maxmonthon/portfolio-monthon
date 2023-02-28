@@ -19,7 +19,7 @@ export default function Hero() {
       <BackgroundCircles />
       <img
         className="relative rounded-full h-32 w-32 mx-auto object-cover"
-        src="https://scontent.fbkk22-8.fna.fbcdn.net/v/t1.6435-1/204450176_540190783775963_8359539376295728159_n.jpg?stp=dst-jpg_p200x200&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEsNJq5ORsM0D8jmpAWes6Rg3OzU1BQocuDc7NTUFChy0qhwrCa93cqy6v1xFXmLLMgXR91CN9SQ11k9XeYy-xb&_nc_ohc=mR5gxoUL0M4AX9KBGXG&tn=ET5GTkiCYZdXcqNj&_nc_ht=scontent.fbkk22-8.fna&oh=00_AfAZ1ruX7nchbQmrDSLK0hAwYokVmDGLm6ViPMaBZ_hlUw&oe=63FB220F"
+        src="https://avatars.githubusercontent.com/u/116298646?s=400&u=58b06723fd47e98fd421fa7e23c035faac69a2c6&v=4"
         alt=""
       />
       <div className="z-20">

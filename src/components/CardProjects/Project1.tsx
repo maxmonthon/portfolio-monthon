@@ -78,7 +78,7 @@ export default function Project1({}: Props) {
           <ul className="list-disc space-y-5 ml-5 text-lg">
             <li>JUNIOR PROJECT</li>
             <SocialIcon
-              url="https://portfolio-monthon-s1dx.vercel.app/"
+              url="https://fake-shop-max.netlify.app/"
               fgColor="gray"
               bgColor="transparent"
             />

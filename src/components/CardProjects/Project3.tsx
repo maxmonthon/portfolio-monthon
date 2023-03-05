@@ -16,7 +16,7 @@ export default function Project3({}: Props) {
           transition={{ duration: 1.2 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          src="https://scontent.fbkk29-9.fna.fbcdn.net/v/t1.15752-9/328488462_6010814715629950_1275124513677999328_n.png?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEI8ThmRv9VZmy-g8af_Ekuey9L3cLt-G17L0vdwu34bQA3hcan8kVlGysFh4l3Nv_0VwMMJ2QQjU5brDKXa2pW&_nc_ohc=Av43CQ3kzA8AX80B7X1&_nc_ht=scontent.fbkk29-9.fna&oh=03_AdRbA59RPRLYQAzNOmguyCws0r0h95TubBUL_jyS7Xgq9Q&oe=6401EF68"
+          src="https://user-images.githubusercontent.com/116298646/212898379-c8eded2b-db24-4611-9c48-873632816615.png"
           className="-mb-0 md:mb-0 flex-shrink-0 w-40 h-40 rounded-full object-cover md:rounded-lg md:w-60 md:-9 xl:w-[400px] xl:h-[400px]"
         />
 

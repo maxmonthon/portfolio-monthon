@@ -17,7 +17,7 @@ export default function Project1({}: Props) {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           className="-mb-0 md:mb-0 flex-shrink-0 w-40 h-40 rounded-full object-cover md:rounded-lg md:w-60 md:-9 xl:w-[400px] xl:h-[400px]"
-          src=""
+          src="https://user-images.githubusercontent.com/116298646/222967070-e95aa8e3-f46a-4d62-94db-3131e5c84494.png"
           alt=""
         />
 

@@ -17,7 +17,7 @@ export default function Project1({}: Props) {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           className="-mb-0 md:mb-0 flex-shrink-0 w-40 h-40 rounded-full object-cover md:rounded-lg md:w-60 md:-9 xl:w-[400px] xl:h-[400px]"
-          src="https://scontent.fbkk29-6.fna.fbcdn.net/v/t1.15752-9/327949892_1466930427172091_9188202228791229443_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEnGsbiknsfXHhhlg3G9vic8kej7-4F2ozyR6Pv7gXajFGMeyaJ03q-t1oGlPmi5RE1qc9w_tqQGgz3dJXU3V5K&_nc_ohc=ieZAjPWKue4AX_tgToN&_nc_oc=AQlD4U4MwLAO3EjiOfMqUHb7CpJmCjVkX-X34yyRV-LmUZ1swoxoEhLfbpQBg1Jitujyt9rLR7z4ipvZyn6pH1h5&_nc_ht=scontent.fbkk29-6.fna&oh=03_AdR0eYtDX_wmvJ84oDrxMD1Syy8Y2Qad3YzP5K0Ax0JyOg&oe=64020F63"
+          src=""
           alt=""
         />
 

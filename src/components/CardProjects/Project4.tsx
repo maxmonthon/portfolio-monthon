@@ -37,7 +37,7 @@ export default function Project4({}: Props) {
               className="h-10 w-10 rounded-full"
               src="https://mui.com/static/logo.png"
               alt=""
-            />
+            
         
             />
           </div>
